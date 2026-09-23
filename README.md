@@ -1,0 +1,2 @@
+# manasp
+my new project
